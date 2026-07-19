@@ -8,5 +8,5 @@ jobs:
       - name: checkout code
         uses: actions/checkout@v5
       - name: we are testing this workflow 
-        run: Hello Awais 
+        run: echo Hello Awais 
       
